@@ -13,3 +13,5 @@
 - ResNet_v1 : 정확도 0.3
 - inception_resnet_v1
 - mtcnn
+- VGG19
+- ResNet18
