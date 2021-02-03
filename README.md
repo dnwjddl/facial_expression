@@ -15,3 +15,8 @@
 - mtcnn
 - VGG19
 - ResNet18
+
+### 실행
+``` 
+python facial_expression.py --cascade haarcascade_frontalface_default.xml --model resnet_model_filter.h5 
+```
