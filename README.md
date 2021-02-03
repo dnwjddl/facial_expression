@@ -3,7 +3,7 @@
 
 ### Data
 ```fer2013.csv``` 파일 이용  
-참고: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+참고: [FER2013 Dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
 
 - label = Anger, Disgust, Fear, Happy, Sad, Suprise, Neutral
 
